@@ -1,2 +1,2 @@
 # Bike Sharing Analysis
-information about bikes_sharing
+EDA of bikes_sharing
